@@ -1,2 +1,3 @@
 rootProject.name = 'Postman Echo'
+include 'ru.netology'
 
